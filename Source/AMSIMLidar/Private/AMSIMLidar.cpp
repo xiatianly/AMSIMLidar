@@ -1,4 +1,6 @@
-// A&M SIM LLC 2025 All Rights Reserved
+// Copyright (c) 2025 A&M SIM LLC
+// SPDX-License-Identifier: MIT
+// Licensed under the MIT License; see the LICENSE file for details.
 
 #include "AMSIMLidar.h"
 

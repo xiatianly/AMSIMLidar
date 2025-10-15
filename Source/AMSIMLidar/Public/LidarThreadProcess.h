@@ -22,9 +22,5 @@ public:
 
 protected:
 
-  //! Because non protected ptr, (not UPROPERTY())
-  //! >>> The owning actor of this thread must outlive the thread itself <<<
-  //! Owning actor stops this thread on EndPlay, its own destructor starting process
-  //! Owning actor freezes game thread until this thread acknowledges it has been stopped
   ALidarBaseActor* LidarActor = nullptr;
 };
