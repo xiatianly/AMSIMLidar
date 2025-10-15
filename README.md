@@ -35,6 +35,6 @@ Outputs live UDP packets compatible with common viewers (e.g., VeloView), and ca
 
 <img width="2552" height="1381" alt="Velodyne_VLS_128_8" src="https://github.com/user-attachments/assets/befbfb30-8496-44ea-8022-c33f91e9acd9" />
 
-If any questions or comments, please contact: zhenchun.xia@amsim.ai
+For further customization or parameter tuning, please contact: zhenchun.xia@amsim.ai
 
 This repository is developed on top of MetaLidar (https://github.com/metabotics-ai/MetaLidar), extended for our real-time LiDAR simulation workflow.
